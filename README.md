@@ -1,4 +1,4 @@
-<div align="center">Stay tuned we are working on the code to make it public.:<br />
+<div align="center">Stay tuned we are working on the code to make it public.<br />
 
 #
 
