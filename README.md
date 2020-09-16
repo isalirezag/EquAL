@@ -1,4 +1,3 @@
-<div align="center">Stay tuned we are working to make our impelemtation available for public.<br />
 
 #
 
