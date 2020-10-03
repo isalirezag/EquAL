@@ -16,9 +16,9 @@ Importance of Self-Consistency in Active Learning for Semantic Segmentation (BMV
 ![GitHub Logo](https://user-images.githubusercontent.com/12434910/88857558-839b2700-d1c4-11ea-9dac-11f383d840d0.gif)
 
 #
-In addition to the resuts in the paper here is also the results via DeepLabV3 as an backbone (instead of FCN) for our paper.
+In addition to the resuts in the paper here is also the results via **DeepLabV3** as an backbone (instead of FCN) for our paper.
 
-<details><summary>Results</summary>
+<details><summary>Results for DeeplabV3 as backbone</summary>
 
 |             Dataset/Model             | Input Resolution | Classes | Batch Size | Epochs | Mean IoU (%) | Budget | Self-Consistency |
 |:-------------------------------------:|:----------------:|:-------:|:----------:|:------:|:------------:|--------|:----------------:|
