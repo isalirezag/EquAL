@@ -16,6 +16,19 @@ Importance of Self-Consistency in Active Learning for Semantic Segmentation (BMV
 ![GitHub Logo](https://user-images.githubusercontent.com/12434910/88857558-839b2700-d1c4-11ea-9dac-11f383d840d0.gif)
 
 #
-The Active learing code in this repository consist of two main forlde:<br/>
-1) ActiveLearning: Include active learning code. <br/>
-2) FinalTraining: Include the code for final traning stage after AL process is finished or to compute the upperbond performance.
+In addition to the resuts in the paper here is also the results via DeepLabV3 as an backbone (instead of FCN) for our paper.
+
+**Stay Tuned for the pretrained weights**
+<details><summary>Results</summary>
+
+|             Dataset/Model             | Input Resolution | Classes | Batch Size | Epochs | Mean IoU (%) | Budget | Self-Consistency |
+|:-------------------------------------:|:----------------:|:-------:|:----------:|:------:|:------------:|--------|:----------------:|
+|    Camvid (Fully Trained)-DeepLabV3   |      360x480     |    11   |      5     |   60   |     0.667    | 100%   |         0        |
+|  Cityscapes (Fully Trained)-DeepLabV3 |     512x1024     |    19   |      4     |   60   |     0.649    | 100%   |         0        |
+|   Camvid (Fully Trained)-DeepLabV3+   |      360x480     |    11   |      5     |   60   |     0.672    | 12%    |         1        |
+| Cityscapes (Fully Trained)-DeepLabV3+ |     512x1024     |    19   |      4     |   60   |     0.697    | 12%    |         1        |
+|    Camvid (Fully Trained)-DeepLabV3   |      360x480     |    11   |      5     |   60   |     0.622    | 12%    |         0        |
+|  Cityscapes (Fully Trained)-DeepLabV3 |     512x1024     |    19   |      4     |   60   |              | 12%    |         0        |
+|   Camvid (Fully Trained)-DeepLabV3+   |      360x480     |    11   |      5     |   60   |     0.634    | 12%    |         1        |
+| Cityscapes (Fully Trained)-DeepLabV3+ |     512x1024     |    19   |      4     |   60   |              | 12%    |         1        |
+</details>
