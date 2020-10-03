@@ -2,11 +2,11 @@
 #
 
 
-<div align="center">This repository contains the implementation for the paper:<br />
+**<div align="center">**Please stay tuned, we are working on the licencing and the paper works to be able to release our code for public**.<br />**
+  
 Importance of Self-Consistency in Active Learning for Semantic Segmentation (BMVC 2020) </div>
 
 #
-The code is test on Ubuntu 16.04, [Pytorch](https://pytorch.org/) 1.5, and python 3.6.6
 
 
 ![GitHub Logo](https://user-images.githubusercontent.com/12434910/88857501-61a1a480-d1c4-11ea-9275-aebb808b9565.png)
