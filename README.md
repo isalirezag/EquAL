@@ -26,8 +26,8 @@ In addition to the resuts in the paper here is also the results via DeepLabV3 as
 |  Cityscapes (Fully Trained)-DeepLabV3 |     512x1024     |    19   |      4     |   60   |     0.649    | 100%   |         0        |
 |   Camvid (Fully Trained)-DeepLabV3+   |      360x480     |    11   |      5     |   60   |     0.672    | 100%   |         1        |
 | Cityscapes (Fully Trained)-DeepLabV3+ |     512x1024     |    19   |      4     |   60   |     0.697    | 100%   |         1        |
-|    Camvid (Fully Trained)-DeepLabV3   |      360x480     |    11   |      5     |   60   |     0.622    | 12%    |         0        |
-|  Cityscapes (Fully Trained)-DeepLabV3 |     512x1024     |    19   |      4     |   60   |     0.633    | 12%    |         0        |
-|   Camvid (Fully Trained)-DeepLabV3+   |      360x480     |    11   |      5     |   60   |     0.634    | 12%    |         1        |
-| Cityscapes (Fully Trained)-DeepLabV3+ |     512x1024     |    19   |      4     |   60   |     0.674    | 12%    |         1        |
+|    Camvid (Active Learning)-DeepLabV3   |      360x480     |    11   |      5     |   60   |     0.622    | 12%    |         0        |
+|  Cityscapes (Active Learning)-DeepLabV3 |     512x1024     |    19   |      4     |   60   |     0.633    | 12%    |         0        |
+|   Camvid (Active Learning)-DeepLabV3+   |      360x480     |    11   |      5     |   60   |     0.634    | 12%    |         1        |
+| Cityscapes (Active Learning)-DeepLabV3+ |     512x1024     |    19   |      4     |   60   |     0.674    | 12%    |         1        |
 </details>
