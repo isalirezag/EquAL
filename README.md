@@ -2,7 +2,7 @@
 #
 
 
-**<div align="center">**Please stay tuned, we are working on the licencing and the paper works to be able to release our code for public**.<br />**
+**<div align="center">**Please stay tuned, we are working on the licencing and the paper works to be able to release our code for public**. In the meanntime if you have any questions please contact me at sgolesta@andrew.cmu.edu<br />**
   
 Importance of Self-Consistency in Active Learning for Semantic Segmentation (BMVC 2020) </div>
 
