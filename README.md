@@ -4,7 +4,9 @@
 
 **<div align="center">**Please stay tuned, we are working on the licencing and the paper works to be able to release our code for public**. In the meanntime if you have any questions please contact me at isalirezag@gmail.com<br />**
   
-Importance of Self-Consistency in Active Learning for Semantic Segmentation (BMVC 2020) </div>
+[Importance of Self-Consistency in Active Learning for Semantic Segmentation (BMVC 2020)](https://www.bmvc2020-conference.com/assets/papers/0010.pdf)
+
+</div>
 
 #
 
