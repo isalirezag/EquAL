@@ -51,7 +51,9 @@ Download the [Cityscapes Dataset](https://www.cityscapes-dataset.com//) and put 
 
 <details>
 <summary>Dataset Format</summary>
+           
 ```bash
+           
 |-- /Data/cityscapes/
            |-- leftImg8bit
                 |--train
